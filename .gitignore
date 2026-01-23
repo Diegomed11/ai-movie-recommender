@@ -1,0 +1,11 @@
+# Ignorar librerías pesadas de Python y React
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+dist/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
